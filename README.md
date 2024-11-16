@@ -26,5 +26,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/1oridevs/Weather-App.git
    cd weather-app
