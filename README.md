@@ -8,9 +8,6 @@ A simple, responsive weather application built using **React** and **WeatherAPI*
 - Modern, responsive UI with smooth hover effects.
 - Error handling for incorrect city selections.
 
-## 🚀 Demo
-Check out the live demo: [Weather App Demo](#)  
-*(You can update this link once you deploy your app.)*
 
 ## 📸 Screenshots
 ![Weather App Screenshot](screenshot.png)
